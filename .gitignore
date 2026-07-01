@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+
+# Maven
+target/
+
+# Spring secrets
+application.properties
+
+# Google credentials
+src/main/resources/credentials.json
