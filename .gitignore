@@ -9,3 +9,6 @@ application.properties
 
 # Google credentials
 src/main/resources/credentials.json
+
+ml-service/venv/
+ml-service/__pycache__/
